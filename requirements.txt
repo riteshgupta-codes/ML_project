@@ -7,4 +7,3 @@ joblib==1.4.2
 dill
 catboost
 xgboost
--e .
